@@ -18,3 +18,9 @@ data/vectors/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# WorkBuddy 工具的内部记录（跟项目无关，不进仓库）
+.workbuddy/
+
+# 测试用的微信视频（虽然后缀是 txt，实际是大视频）
+data/samples/微信视频*.txt
